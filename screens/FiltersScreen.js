@@ -15,7 +15,7 @@ const FilterSwitch = props => {
         onValueChange={props.onChange}
       />
     </View>
-  )
+  );
 }
 
 const FiltersScreen = props => {
@@ -36,7 +36,7 @@ const FiltersScreen = props => {
 
     console.log(appliedFilters);
 
-  }, [isGlutenFree, isLactoseFree, isVegan, isVegetarian])
+  }, [isGlutenFree, isLactoseFree, isVegan, isVegetarian]);
 
   useEffect(() => {
     navigation.setParams({save: saveFilters});
