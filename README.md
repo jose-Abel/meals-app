@@ -1,4 +1,4 @@
-# Amazon Clone - Jose Abel Ramirez Frontany
+# Meals App - Jose Abel Ramirez Frontany
 
 ![screenshot](./meals_app_screenshot1.png)
 ![screenshot](./meals_app_screenshot2.png)
